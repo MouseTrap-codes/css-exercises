@@ -1,4 +1,9 @@
 .odd {
-    color: ligjht rgb(250, 184, 184);
+    color: rgb(250, 184, 184);
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#second {
+    color: rgb(129, 142, 226);
+    font-size: 36px;
 }
